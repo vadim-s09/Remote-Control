@@ -8,13 +8,13 @@ namespace control
         {
             ProcessStartInfo startInfo;
 
-            // Prüfe, ob der Befehl mit PowerShell-Syntax beginnt (z. B. Get-Process)
+            
             if (arguments.Trim().StartsWith("Get-", StringComparison.OrdinalIgnoreCase) ||
                 arguments.Contains("Where-Object") ||
                 arguments.Contains("Select-Object") ||
                 arguments.Contains("|"))
             {
-                // PowerShell-Befehl: Verwende powershell.exe
+                
                 startInfo = new ProcessStartInfo
                 {
                     FileName = "powershell.exe",
@@ -26,7 +26,7 @@ namespace control
             }
             else
             {
-                // Netsh-Befehl: Verwende netsh
+                
                 startInfo = new ProcessStartInfo
                 {
                     FileName = "netsh",
