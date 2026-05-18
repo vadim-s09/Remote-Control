@@ -85,14 +85,6 @@ namespace controlHost
                         {
                             string message = Encoding.UTF8.GetString(buffer, 0, bytesRead);
                             Console.WriteLine("Received: " + message);
-
-                            // Optional: Echo back if needed, but synchronized
-                            // Uncomment the lines below if you want to echo messages back
-                            // byte[] response = Encoding.UTF8.GetBytes("Echo: " + message);
-                            // lock (streamLock)
-                            // {
-                            //     stream.Write(response, 0, response.Length);
-                            // }
                         }
                     }
                     catch (Exception ex)
