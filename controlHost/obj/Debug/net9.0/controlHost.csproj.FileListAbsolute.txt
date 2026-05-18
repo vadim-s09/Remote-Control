@@ -1,0 +1,14 @@
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\bin\Debug\net9.0\controlHost.exe
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\bin\Debug\net9.0\controlHost.deps.json
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\bin\Debug\net9.0\controlHost.runtimeconfig.json
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\bin\Debug\net9.0\controlHost.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\bin\Debug\net9.0\controlHost.pdb
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.AssemblyInfoInputs.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.AssemblyInfo.cs
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.csproj.CoreCompileInputs.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\refint\controlHost.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.pdb
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\controlHost.genruntimeconfig.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\controlHost\obj\Debug\net9.0\ref\controlHost.dll
