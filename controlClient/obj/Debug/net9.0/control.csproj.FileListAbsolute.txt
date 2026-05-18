@@ -1,0 +1,14 @@
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\bin\Debug\net9.0\control.exe
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\bin\Debug\net9.0\control.deps.json
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\bin\Debug\net9.0\control.runtimeconfig.json
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\bin\Debug\net9.0\control.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\bin\Debug\net9.0\control.pdb
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.AssemblyInfoInputs.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.AssemblyInfo.cs
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.csproj.CoreCompileInputs.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\refint\control.dll
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.pdb
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\control.genruntimeconfig.cache
+C:\Users\SWMIadmin\OneDrive\Desktop\Vadim-C#\control\obj\Debug\net9.0\ref\control.dll
